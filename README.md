@@ -36,7 +36,7 @@ The objective of this project is to create a WiFi-based control system for a lig
 
 6.GPIO (General Purpose Input/Output): - Utilizes GPIO pins on the microcontroller to physically control the light bulb. The digitalWrite function sets the pin high or low, turning the light bulb on or off based on the RemoteXY input.
 
-###### Hardware and Software Required
+#### Hardware and Software Required
 ● ESP32
 ● Light Bulb
 ● Realy
